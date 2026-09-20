@@ -2,12 +2,10 @@
   "version": 2,
   "builds": [
     { "src": "frontend/package.json", "use": "@vercel/static-build" },
-    { "src": "crowd-service/main.py", "use": "@vercel/python" },
     { "src": "gateway/index.js", "use": "@vercel/node" },
     { "src": "location-service/index.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/api/crowd/(.*)", "dest": "crowd-service/main.py" },
     { "src": "/api/gateway/(.*)", "dest": "gateway/index.js" },
     { "src": "/api/location/(.*)", "dest": "location-service/index.js" },
     { "src": "/(.*)", "dest": "frontend/$1" }
