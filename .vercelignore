@@ -1,0 +1,17 @@
+# Abaikan semua file berformat model AI dan video di seluruh proyek
+**/*.pt
+**/*.pth
+**/*.onnx
+**/*.mp4
+**/*.avi
+**/*.mov
+
+# Abaikan folder video dan model spesifik di crowd-service
+crowd-service/videos/
+crowd-service/models/
+crowd-service/yolov8*/
+
+# Abaikan cache python
+**/__pycache__/
+**/.pytest_cache/
+**/.venv/
