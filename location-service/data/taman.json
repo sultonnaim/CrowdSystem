@@ -1,0 +1,1098 @@
+{
+  "taman": [
+    {
+      "id": 1,
+      "name": "Taman Apsari",
+      "lokasi": "Jl. Pemuda",
+      "kelurahan": "Embong Kaliasin",
+      "kecamatan": "Genteng",
+      "wilayah": "Surabaya Pusat",
+      "luas_m2": 5123,
+      "hasCCTV": true,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "cameraUrl": "rtsp://sultonun:view$&cctvT4@112.140.166.20:554/Streaming/Channels/1801/",
+      "description": "Taman Apsari merupakan oase hijau bersejarah yang terletak tepat di seberang Gedung Grahadi. Taman peninggalan zaman kolonial Belanda ini terkenal dengan suasananya yang teduh berkat rindangnya pohon Tabebuya. Di bagian tengahnya, berdiri megah Patung R.M.T. Soerjo (Gubernur pertama Jawa Timur) yang dikelilingi kolam air mancur. Selain bernilai sejarah, taman ini juga menjadi tempat favorit arek-arek Suroboyo untuk bersantai, berolahraga futsal, hingga berkumpulnya berbagai komunitas kreatif.",
+      "facilities": [
+        "Air Mancur",
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Spot Foto"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "23:00",
+      "images": [
+        "/images/taman/pusat/apsari/1.jpeg",
+        "/images/taman/pusat/apsari/2.jpeg",
+        "/images/taman/pusat/apsari/3.jpeg",
+        "/images/taman/pusat/apsari/4.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Taman AIS Nasution (Bambu Runcing)",
+      "lokasi": "Jl. Panglima Sudirman",
+      "kelurahan": "Embong Kaliasin",
+      "kecamatan": "Genteng",
+      "wilayah": "Surabaya Pusat",
+      "luas_m2": 9149,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman AIS Nasution lebih populer dikenal oleh masyarakat sebagai area Monumen Bambu Runcing, yang merupakan salah satu landmark paling ikonik di jantung Kota Surabaya. Di tengah taman ini berdiri megah monumen berbentuk bambu runcing sebagai simbol perjuangan heroik warga Surabaya melawan penjajah. Saat malam hari, taman ini menyuguhkan pemandangan yang sangat cantik dengan lampu hias warna-warni dan air mancur yang menari di sekitar monumen, menjadikannya spot foto favorit.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Monumen"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/pusat/aisnasution/1.jpg",
+        "/images/taman/pusat/aisnasution/2.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Taman Keputran",
+      "lokasi": "Stren Kali Jl. Keputran",
+      "kelurahan": "Tegalsari",
+      "kecamatan": "Tegalsari",
+      "wilayah": "Surabaya Pusat",
+      "luas_m2": 2754.57,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Keputran adalah ruang terbuka hijau yang membentang asri di bantaran Sungai Kalimas, tepat bersebelahan dengan Pasar Keputran. Taman ini dirancang untuk memberikan kesan hijau dan meredam kebisingan kota dengan rimbunnya tanaman perdu, semak hias, serta pepohonan peneduh. Dilengkapi dengan panggung pertunjukan, taman ini sering menjadi ruang publik bagi warga sekitar untuk menikmati angin sore di tepi sungai.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Jogging Track"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/pusat/keputran/1.jpeg",
+        "/images/taman/pusat/keputran/2.jpeg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Taman Buah Undaan",
+      "lokasi": "Ex. SPBU Undaan Jl. Undaan Kulon",
+      "kelurahan": "Peneleh",
+      "kecamatan": "Genteng",
+      "wilayah": "Surabaya Pusat",
+      "luas_m2": 1594,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Buah Undaan merupakan taman tematik unik yang dibangun di atas lahan bekas SPBU di kawasan Peneleh, dekat bantaran anak Sungai Kalimas. Yang membuat taman ini istimewa adalah keberadaan replika patung buah-buahan berukuran raksasa yang menjadi ikon edukatif sekaligus daya tarik visual bagi anak-anak.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Playground"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/pusat/undaan/1.jpeg",
+        "/images/taman/pusat/undaan/2.jpeg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Taman BMX Ketabang",
+      "lokasi": "Jl. Ketabang Kali",
+      "kelurahan": "Ketabang",
+      "kecamatan": "Genteng",
+      "wilayah": "Surabaya Pusat",
+      "luas_m2": 4500,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman BMX Ketabang adalah surga bagi para pencinta olahraga ekstrem dan pemuda kreatif di Surabaya. Berlokasi di tepi Sungai Kalimas, taman ini secara khusus dilengkapi dengan fasilitas skatepark dan lintasan khusus sepeda BMX.",
+      "facilities": [
+        "BMX Track",
+        "Area Duduk",
+        "Parkir",
+        "Toilet"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "21:00",
+      "images": [
+        "/images/taman/pusat/ketabang/1.jpeg",
+        "/images/taman/pusat/ketabang/2.jpg",
+        "/images/taman/pusat/ketabang/3.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Taman Ekspresi",
+      "lokasi": "Jl. Kalimas",
+      "kelurahan": "Ketabang",
+      "kecamatan": "Genteng",
+      "wilayah": "Surabaya Pusat",
+      "luas_m2": 6019,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Ekspresi dirancang sebagai wadah bagi para seniman dan masyarakat Surabaya untuk mengekspresikan diri secara gratis. Terletak di tepi Jalan Kalimas, keunikan taman ini ada pada berbagai instalasi seni dan patung instalasi yang memanfaatkan barang-barang bekas.",
+      "facilities": [
+        "Area Seni",
+        "Area Duduk",
+        "Toilet",
+        "Parkir"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "21:00",
+      "images": [
+        "/images/taman/pusat/ekspresi/1.jpeg",
+        "/images/taman/pusat/ekspresi/2.jpeg",
+        "/images/taman/pusat/ekspresi/3.jpeg",
+        "/images/taman/pusat/ekspresi/4.jpeg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Taman Prestasi",
+      "lokasi": "Jl. Ketabang Kali",
+      "kelurahan": "Ketabang",
+      "kecamatan": "Genteng",
+      "wilayah": "Surabaya Pusat",
+      "luas_m2": 15303,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Prestasi merupakan salah satu taman rekreasi keluarga terbesar dan paling populer di pusat kota. Daya tarik utama taman ini adalah fasilitas wisata air berupa Perahu Kalimas, di mana pengunjung bisa menyusuri sungai sembari menikmati pemandangan kota.",
+      "facilities": [
+        "Jogging Track",
+        "Parkir",
+        "Toilet",
+        "Area Olahraga"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "22:00",
+      "images": [
+        "/images/taman/pusat/prestasi/1.jpeg",
+        "/images/taman/pusat/prestasi/2.jpeg",
+        "/images/taman/pusat/prestasi/3.jpeg",
+        "/images/taman/pusat/prestasi/4.jpeg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Taman Kartika",
+      "lokasi": "Jl. Tegalsari",
+      "kelurahan": "Tegalsari",
+      "kecamatan": "Tegalsari",
+      "wilayah": "Surabaya Pusat",
+      "luas_m2": 2376,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Kartika adalah taman lingkungan yang asri di kawasan Tegalsari. Meskipun ukurannya tidak terlalu besar, taman ini berfungsi optimal sebagai paru-paru kota mikro dan tempat interaksi sosial warga sekitar.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/pusat/kartika/1.jpeg",
+        "/images/taman/pusat/kartika/2.jpeg",
+        "/images/taman/pusat/kartika/3.jpeg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Taman Kombes Pol M. Duryat",
+      "lokasi": "Jl. Kombes Pol M. Duryat",
+      "kelurahan": "Embong Kaliasin",
+      "kecamatan": "Genteng",
+      "wilayah": "Surabaya Pusat",
+      "luas_m2": 8100,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Kombes Pol M. Duryat merupakan taman vertikal dan ruang terbuka hijau estetik yang berfungsi sebagai penyejuk di kawasan padat lalu lintas. Dengan tata pencahayaan yang apik di malam hari dan tanaman hias yang dikelompokkan dengan rapi.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Jogging Track"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "21:00",
+      "images": [
+        "/images/taman/pusat/duryat/1.jpeg",
+        "/images/taman/pusat/duryat/2.jpeg",
+        "/images/taman/pusat/duryat/3.jpeg",
+        "/images/taman/pusat/duryat/4.jpeg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Taman Sejarah Jayenggromo",
+      "lokasi": "Jl. Rajawali",
+      "kelurahan": "Kemayoran",
+      "kecamatan": "Krembangan",
+      "wilayah": "Surabaya Utara",
+      "luas_m2": 5315,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Sejarah (Taman Jayenggrono) adalah salah satu taman tertua di Surabaya yang terletak di kawasan kota tua, dekat Jembatan Merah. Tempat ini memiliki nilai historis yang luar biasa tinggi karena menjadi lokasi tewasnya Jenderal AWS Mallaby yang memicu pertempuran 10 November 1945.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Monumen Sejarah"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/utara/jayenggromo/1.jpeg",
+        "/images/taman/utara/jayenggromo/2.jpeg",
+        "/images/taman/utara/jayenggromo/3.jpeg",
+        "/images/taman/utara/jayenggromo/4.jpeg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Taman Suroboyo",
+      "lokasi": "Jl. Bulak",
+      "kelurahan": "Bulak",
+      "kecamatan": "Kenjeran",
+      "wilayah": "Surabaya Utara",
+      "luas_m2": 11900,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Suroboyo merupakan taman ikonik pesisir pantai yang terletak di kawasan Kenjeran. Daya tarik utama dari taman ini adalah berdirinya Patung Suro dan Boyo Raksasa setinggi 25 meter yang menghadap ke arah laut, menjadikannya salah satu ikon foto paling wajib jika berkunjung ke Surabaya.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Spot Foto",
+        "Kuliner"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "22:00",
+      "images": [
+        "/images/taman/utara/suroboyo/1.jpeg",
+        "/images/taman/utara/suroboyo/2.jpeg",
+        "/images/taman/utara/suroboyo/3.jpeg",
+        "/images/taman/utara/suroboyo/4.jpeg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Taman Kalongan",
+      "lokasi": "Jl. Indrapura - Jl Taman Kalongan",
+      "kelurahan": "Kedung Cowek",
+      "kecamatan": "Kenjeran",
+      "wilayah": "Surabaya Utara",
+      "luas_m2": 4165,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Kalongan yang berlokasi di sekitar Jalan Indrapura ini merupakan ruang publik hijau yang menawarkan ketenangan di tengah padatnya aktivitas Surabaya Utara. Taman ini dipenuhi dengan pepohonan pelindung yang rindang dan tanaman hias bunga.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/utara/kalongan/1.jpeg",
+        "/images/taman/utara/kalongan/2.jpeg",
+        "/images/taman/utara/kalongan/3.jpeg"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Taman Krembangan",
+      "lokasi": "Jl. Krembangan Timur no. 2-4",
+      "kelurahan": "Krembangan Selatan",
+      "kecamatan": "Krembangan",
+      "wilayah": "Surabaya Utara",
+      "luas_m2": 1295,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Krembangan adalah taman komunitas yang asri dan bersih di wilayah Krembangan Selatan. Taman ini difungsikan sebagai ruang interaksi warga urban, dilengkapi dengan fasilitas jalur pedestrian yang nyaman dan bangku-bangku taman di bawah pohon rindang.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/utara/krembangan/1.jpeg",
+        "/images/taman/utara/krembangan/2.jpeg"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Taman Bulak",
+      "lokasi": "Bulak Depan Sentra Ikan Bulak",
+      "kelurahan": "Bulak Banteng",
+      "kecamatan": "Kenjeran",
+      "wilayah": "Surabaya Utara",
+      "luas_m2": 2153.94,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Bulak terletak strategis tepat di depan Sentra Ikan Bulak (SIB). Taman ini didesain cantik dengan hamparan rumput hijau yang luas, tanaman hias warna-warni, serta fasilitas bermain untuk anak-anak.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "19:00",
+      "images": [
+        "/images/taman/utara/bulak/1.jpeg",
+        "/images/taman/utara/bulak/2.jpeg",
+        "/images/taman/utara/bulak/3.jpeg"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Taman Kali Kedinding",
+      "lokasi": "Jl. Raya Kedung Cowek (Eks. Pasar Kedinding Surya)",
+      "kelurahan": "Kenjeran",
+      "kecamatan": "Kenjeran",
+      "wilayah": "Surabaya Utara",
+      "luas_m2": 1080,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Kali Kedinding memanfaatkan lahan bekas Pasar Kedinding Surya untuk diubah menjadi ruang publik yang jauh lebih bermanfaat dan estetik. Taman ini berfungsi sebagai area resapan air sekaligus tempat rekreasi murah meriah bagi warga sekitar.",
+      "facilities": [
+        "Area Duduk",
+        "Jogging Track"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "19:00",
+      "images": [
+        "/images/taman/utara/kedinding/1.jpeg",
+        "/images/taman/utara/kedinding/2.jpeg"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Taman Ngagel",
+      "lokasi": "Jl. Ngagel",
+      "kelurahan": "Ngagel",
+      "kecamatan": "Wonokromo",
+      "wilayah": "Surabaya Selatan",
+      "luas_m2": 839.46,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Ngagel adalah ruang terbuka hijau linear yang membentang di sepanjang pinggiran bantaran Sungai Kalimas kawasan Ngagel. Taman ini dirancang sebagai tempat beristirahat yang nyaman dengan jalur pejalan kaki yang rapi.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/selatan/ngagel/1.jpeg",
+        "/images/taman/selatan/ngagel/2.jpeg",
+        "/images/taman/selatan/ngagel/3.jpeg"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Taman Bungkul",
+      "lokasi": "Jl. Raya Darmo",
+      "kelurahan": "Darmo",
+      "kecamatan": "Wonokromo",
+      "wilayah": "Surabaya Selatan",
+      "luas_m2": 10324,
+      "hasCCTV": false,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Bungkul adalah crown jewel atau taman paling populer dan legendaris di Surabaya, bahkan pernah dinobatkan sebagai taman kota terbaik se-Asia Tenggara oleh PBB (UN-Habitat). Taman ini memadukan konsep wisata religi, rekreasi, edukasi, dan olahraga.",
+      "facilities": [
+        "Wifi",
+        "Parkir",
+        "Kantin",
+        "Playground",
+        "Jogging Track",
+        "Skate Park",
+        "Food Court"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "22:00",
+      "images": [
+        "/images/taman/selatan/bungkul/1.jpeg",
+        "/images/taman/selatan/bungkul/2.jpeg",
+        "/images/taman/selatan/bungkul/3.jpeg",
+        "/images/taman/selatan/bungkul/4.jpeg",
+        "/images/taman/selatan/bungkul/5.jpeg"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Taman Lesti",
+      "lokasi": "Jl. Lesti",
+      "kelurahan": "Wonokromo",
+      "kecamatan": "Wonokromo",
+      "wilayah": "Surabaya Selatan",
+      "luas_m2": 2314,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Lesti adalah taman lingkungan tersembunyi yang menawarkan ketenangan di tengah kawasan pemukiman Darmo. Suasananya yang tidak terlalu bising, dikelilingi pohon-pohon tua yang rimbun, menjadikan taman ini tempat yang sangat nyaman untuk membaca buku.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/selatan/lesti/1.jpeg",
+        "/images/taman/selatan/lesti/2.jpeg",
+        "/images/taman/selatan/lesti/3.jpeg",
+        "/images/taman/selatan/lesti/4.jpeg"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Taman Lumumba",
+      "lokasi": "Jl. Ngagel",
+      "kelurahan": "Ngagel",
+      "kecamatan": "Wonokromo",
+      "wilayah": "Surabaya Selatan",
+      "luas_m2": 1578,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Lumumba merupakan taman asri di kawasan Ngagel yang berfungsi sebagai ruang hijau estetik di tepi jalan raya. Taman ini ditata dengan aneka tanaman hias perdu yang rapi, berfungsi meredam polusi udara.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Monumen"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/selatan/ngagel/1.jpeg",
+        "/images/taman/selatan/ngagel/2.jpeg",
+        "/images/taman/selatan/ngagel/3.jpeg"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Taman Persahabatan",
+      "lokasi": "Jl. Sulawesi",
+      "kelurahan": "Ngagel",
+      "kecamatan": "Wonokromo",
+      "wilayah": "Surabaya Selatan",
+      "luas_m2": 4715,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Persahabatan dibangun sebagai simbol hubungan baik dan persahabatan antara Kota Surabaya dengan berbagai kota mitra di dunia (Sister Cities). Di taman ini, terdapat beberapa pohon yang ditanam langsung oleh wali kota dari berbagai negara.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Spot Foto"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "21:00",
+      "images": [
+        "/images/taman/selatan/persahabatan/1.jpeg",
+        "/images/taman/selatan/persahabatan/2.jpeg"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Taman Ronggolawe",
+      "lokasi": "Jl. Gunungsari",
+      "kelurahan": "Sawunggaling",
+      "kecamatan": "Wonokromo",
+      "wilayah": "Surabaya Selatan",
+      "luas_m2": 6376,
+      "hasCCTV": true,
+      "current_visitors": 0,
+      "crowd_level": "Rendah",
+      "cameraUrl": "rtsp://sultonun:view$&cctvT4@112.140.166.20:554/Streaming/Channels/802/",
+      "description": "Taman Ronggolawe terkenal dengan ikonnya yang unik, yaitu monumen pesawat tempur. Taman ini menawarkan area yang luas dengan hamparan rumput hijau, sangat cocok untuk aktivitas olahraga ringan di pagi hari.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Monumen"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "21:00",
+      "images": [
+        "/images/taman/selatan/ronggolawe/1.jpeg",
+        "/images/taman/selatan/ronggolawe/2.jpeg",
+        "/images/taman/selatan/ronggolawe/3.jpeg"
+      ],
+      "last_update": "2026-06-17T04:28:23.181Z"
+    },
+    {
+      "id": 22,
+      "name": "Taman Pelangi",
+      "lokasi": "Jl. A. Yani",
+      "kelurahan": "Ketintang",
+      "kecamatan": "Gayungan",
+      "wilayah": "Surabaya Selatan",
+      "luas_m2": 5542,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Pelangi adalah taman penyambut yang terletak di gerbang masuk selatan Kota Surabaya (Jalan Ahmad Yani). Keunikan utama taman ini adalah instalasi tiang-tiang melengkung menyerupai sirip hiu yang dipadukan dengan air mancur.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Playground",
+        "Spot Foto"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "22:00",
+      "images": [
+        "/images/taman/selatan/pelangi/1.jpeg",
+        "/images/taman/selatan/pelangi/2.jpeg",
+        "/images/taman/selatan/pelangi/3.jpeg",
+        "/images/taman/selatan/pelangi/4.jpeg"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Taman Jangkar",
+      "lokasi": "Jl. Jambangan",
+      "kelurahan": "Jambangan",
+      "kecamatan": "Jambangan",
+      "wilayah": "Surabaya Selatan",
+      "luas_m2": 1440.5,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Jangkar merupakan pusat rekreasi keluarga tersembunyi di kawasan Jambangan yang sangat ramah anak. Sesuai namanya, terdapat ornamen jangkar di area taman ini.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/selatan/jangkar/1.jpeg",
+        "/images/taman/selatan/jangkar/2.jpeg",
+        "/images/taman/selatan/jangkar/3.jpeg",
+        "/images/taman/selatan/jangkar/4.jpeg"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Taman Mayangkara",
+      "lokasi": "Jl. A. Yani",
+      "kelurahan": "Wonokromo",
+      "kecamatan": "Wonokromo",
+      "wilayah": "Surabaya Selatan",
+      "luas_m2": 5292,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Mayangkara terletak strategis di depan Rumah Sakit Islam (RSI) Surabaya. Taman ini didominasi oleh Monumen Mayangkara, sebuah patung pahlawan berkuda yang gagah berani.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Jogging Track"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "21:00",
+      "images": [
+        "/images/taman/selatan/mayangkara/1.jpeg",
+        "/images/taman/selatan/mayangkara/2.jpeg",
+        "/images/taman/selatan/mayangkara/3.jpeg",
+        "/images/taman/selatan/mayangkara/4.jpeg"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Taman Balas Klumprik",
+      "lokasi": "Sekitar Kantor Kelurahan Balas Klumprik",
+      "kelurahan": "Balas Klumprik",
+      "kecamatan": "Wiyung",
+      "wilayah": "Surabaya Selatan",
+      "luas_m2": 1796,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Balas Klumprik adalah taman edukasi dan agrowisata yang memanfaatkan Tanah Kas Desa di wilayah Wiyung. Taman ini memiliki suasana pedesaan yang asri, dilengkapi dengan waduk buatan, area pembibitan tanaman, serta spot memancing.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/selatan/balasklumprik/1.webp",
+        "/images/taman/selatan/balasklumprik/2.jpg",
+        "/images/taman/selatan/balasklumprik/3.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Taman Mozaik",
+      "lokasi": "Jl. Wiyung Praja",
+      "kelurahan": "Wiyung",
+      "kecamatan": "Wiyung",
+      "wilayah": "Surabaya Selatan",
+      "luas_m2": 1556,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Mozaik adalah salah satu taman paling instagramable dan kekinian di Surabaya. Daya tarik utamanya adalah sebuah bangunan rumah kaca mini dengan dinding kaca warna-warni berpola mozaik.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Spot Foto"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/selatan/mozaik/1.jpeg",
+        "/images/taman/selatan/mozaik/2.jpeg"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Taman Kebun Bibit Wonorejo",
+      "lokasi": "Jl. Kendalsari",
+      "kelurahan": "Penjaringsanari",
+      "kecamatan": "Rungkut",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 100000,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Kebun Bibit Wonorejo adalah salah satu paru-paru kota terbesar di Surabaya Timur dengan luas mencapai 10 hektare. Taman ini menawarkan konsep rekreasi alam terbuka yang sangat sejuk, lengkap dengan danau buatan, penangkaran rusa tutul, taman dinding, jembatan gantung, hingga sentra kuliner.",
+      "facilities": [
+        "Area Edukasi",
+        "Parkir",
+        "Toilet",
+        "Kebun Bibit",
+        "Jogging Track"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "18:00",
+      "images": [
+        "/images/taman/timur/kebunbibit/1.jpeg",
+        "/images/taman/timur/kebunbibit/2.jpeg",
+        "/images/taman/timur/kebunbibit/3.jpeg",
+        "/images/taman/timur/kebunbibit/4.jpeg"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Taman Flora",
+      "lokasi": "Jl. Manyar Kertoarjo",
+      "kelurahan": "Manyar Sabrangan",
+      "kecamatan": "Mulyorejo",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 33810,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Flora merupakan taman legendaris yang juga berfungsi sebagai pusat pelestarian tanaman dan flora di Surabaya. Sering disebut hutan kota mini, taman ini dihuni oleh ratusan jenis tanaman langka, penangkaran rusa, kandang burung raksasa, kolam ikan hias, dan rumah kompos.",
+      "facilities": [
+        "Greenhouse",
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Koleksi Tanaman"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "21:00",
+      "images": [
+        "/images/taman/timur/flora/1.jpeg",
+        "/images/taman/timur/flora/2.jpeg",
+        "/images/taman/timur/flora/3.jpeg",
+        "/images/taman/timur/flora/4.jpeg",
+        "/images/taman/timur/flora/5.jpeg"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Taman Nginden Intan",
+      "lokasi": "Jl. Nginden",
+      "kelurahan": "Nginden Jangkungan",
+      "kecamatan": "Sukolilo",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 3351,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Nginden Intan adalah taman pemukiman yang disulap menjadi area publik yang asri dan tenang di kawasan Sukolilo. Dengan pepohonan yang rindang dan rerumputan yang hijau, taman ini ideal digunakan oleh warga sekitar untuk melakukan senam pagi atau berjalan santai.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/timur/nginden/1.jpeg",
+        "/images/taman/timur/nginden/2.jpeg",
+        "/images/taman/timur/nginden/3.jpeg"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Taman Kunang-Kunang",
+      "lokasi": "Jl. Penjaringan",
+      "kelurahan": "Penjaringsanari",
+      "kecamatan": "Rungkut",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 9681,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Kunang-Kunang didesain secara khusus untuk memberikan keindahan visual di waktu malam hari. Diatur dengan instalasi lampu-lampu LED kecil di sela-sela tanaman yang berpendar menyerupai cahaya kunang-kunang, taman ini memberikan atmosfer romantis dan syahdu.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Lampu Hias"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "22:00",
+      "images": [
+        "/images/taman/timur/kunang/1.jpeg",
+        "/images/taman/timur/kunang/2.jpeg",
+        "/images/taman/timur/kunang/3.jpeg",
+        "/images/taman/timur/kunang/4.jpeg"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Taman 10 Nopember",
+      "lokasi": "Jl. Mundu",
+      "kelurahan": "Tambaksari",
+      "kecamatan": "Tambaksari",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 5075,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman 10 Nopember (sering disebut juga Taman Mundu) terletak tepat di depan Stadion Gelora 10 Nopember, Tambaksari. Taman ini sangat hidup dan dinamis dengan fasilitas air mancur menari yang menyala di malam hari, jogging track, arena bermain anak, serta panggung pertunjukan seni budaya.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Monumen Sejarah"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "22:00",
+      "images": [
+        "/images/taman/timur/10nopember/1.jpg",
+        "/images/taman/timur/10nopember/2.jpg",
+        "/images/taman/timur/10nopember/3.jpg"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Taman Paliatif Soka",
+      "lokasi": "Jl. Soka",
+      "kelurahan": "Tambaksari",
+      "kecamatan": "Tambaksari",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 1260,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Paliatif adalah taman unik yang didedikasikan dengan konsep penyembuhan dan ketenangan (healing park), khususnya bagi para penyintas kanker dan pasien paliatif. Suasananya dirancang sangat tenang, dipenuhi bunga soka dan tanaman obat keluarga, serta dilengkapi jalur refleksi kaki dan area meditasi.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/timur/paliatif/1.jpeg",
+        "/images/taman/timur/paliatif/2.jpeg",
+        "/images/taman/timur/paliatif/3.jpeg",
+        "/images/taman/timur/paliatif/4.jpeg"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Taman Teratai",
+      "lokasi": "Jl. Teratai",
+      "kelurahan": "Tambaksari",
+      "kecamatan": "Tambaksari",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 4066,
+      "hasCCTV": true,
+      "current_visitors": 1,
+      "crowd_level": "Rendah",
+      "cameraUrl": "rtsp://sultonun:view$&cctvT4@112.140.166.20:554/Streaming/Channels/902/",
+      "description": "Taman Teratai terletak di kawasan Tambaksari, menawarkan ruang terbuka dengan kolam air yang tenang dan tanaman hias yang tertata rapi. Taman ini difungsikan sebagai area rekreasi warga lokal, tempat anak-anak bermain sepeda, dan oase penyejuk udara di pemukiman padat.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Kolam Teratai"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "21:00",
+      "images": [
+        "/images/taman/timur/teratai/1.jpeg",
+        "/images/taman/timur/teratai/2.jpeg",
+        "/images/taman/timur/teratai/3.jpeg",
+        "/images/taman/timur/teratai/4.jpeg"
+      ],
+      "last_update": "2026-06-17T04:28:15.675Z"
+    },
+    {
+      "id": 34,
+      "name": "Taman Pandugo",
+      "lokasi": "Jl Pandugo Sisi Utara Kelurahan Wonorejo",
+      "kelurahan": "Wonorejo",
+      "kecamatan": "Rungkut",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 4878,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Pandugo adalah taman ramah anak dan keluarga yang terletak di Rungkut. Taman ini dilengkapi dengan fasilitas olahraga lapangan serbaguna, area bermain anak, dan pepohonan hijau yang rindang, menjadikannya pusat aktivitas positif bagi warga perumahan sekitar.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/timur/pandugo/1.png"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Taman Lansia",
+      "lokasi": "Ex. SPBU Biliton Jl. Raya Gubeng - Jl. Biliton",
+      "kelurahan": "Gubeng",
+      "kecamatan": "Gubeng",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 2694,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Lansia dirancang secara khusus dengan fasilitas yang ramah bagi para lanjut usia. Terletak di kawasan Gubeng, taman ini memiliki jalur pedestrian khusus tanpa undakan tajam, ubin refleksi kaki untuk melancarkan sirkulasi darah, bangku-bangku taman yang nyaman di bawah pohon rindang, serta suasana yang tenang.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Fasilitas Lansia",
+        "Jogging Track"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/timur/lansia/1.jpeg",
+        "/images/taman/timur/lansia/2.jpeg",
+        "/images/taman/timur/lansia/3.jpeg",
+        "/images/taman/timur/lansia/4.jpeg"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Taman Harmoni",
+      "lokasi": "Bekas TPA Keputih",
+      "kelurahan": "Keputih",
+      "kecamatan": "Sukolilo",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 84490.3,
+      "hasCCTV": true,
+      "current_visitors": 0,
+      "crowd_level": "Rendah",
+      "cameraUrl": "rtsp://sultonun:view$&cctvT4@112.140.166.20:554/Streaming/Channels/1002/",
+      "description": "Taman Harmoni adalah bukti keberhasilan luar biasa Pemkot Surabaya dalam mengubah bekas Tempat Pembuangan Akhir sampah Keputih menjadi taman bunga yang sangat indah dan luas. Taman ini terkenal dengan hutan bambunya yang eksotis mirip di Arashiyama Jepang, taman bunga krisan, kolam air mancur, serta area bermain anak yang sangat luas.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Jogging Track",
+        "Area Hijau"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "21:00",
+      "images": [
+        "/images/taman/timur/harmoni/1.jpg",
+        "/images/taman/timur/harmoni/2.jpg",
+        "/images/taman/timur/harmoni/3.jpg"
+      ],
+      "last_update": "2026-06-17T04:28:19.037Z"
+    },
+    {
+      "id": 37,
+      "name": "Taman Incenerator",
+      "lokasi": "Jl. Keputih Tegal Taman",
+      "kelurahan": "Keputih",
+      "kecamatan": "Sukolilo",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 12560,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Incenerator terletak berdampingan dengan kawasan Taman Harmoni Keputih. Taman ini mengusung konsep ruang terbuka hijau edukatif, memanfaatkan kawasan sekitar eks-pembakaran sampah yang kini telah dihijaukan dengan berbagai vegetasi pohon pelindung untuk memperbaiki kualitas udara.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Edukasi"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "20:00",
+      "images": [
+        "/images/taman/timur/incenerator/1.jpeg",
+        "/images/taman/timur/incenerator/2.jpeg",
+        "/images/taman/timur/incenerator/3.jpeg",
+        "/images/taman/timur/incenerator/4.jpeg"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Taman PUPR",
+      "lokasi": "Jl. Keputih Tegal Taman",
+      "kelurahan": "Keputih",
+      "kecamatan": "Sukolilo",
+      "wilayah": "Surabaya Timur",
+      "luas_m2": 12542,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman PUPR di Keputih merupakan kawasan megah ruang terbuka hijau dengan luas luar biasa. Taman ini diproyeksikan sebagai kawasan hutan kota modern dan daerah tangkapan air skala besar untuk wilayah Surabaya Timur, sekaligus menjadi tempat rekreasi alam bebas yang sangat potensial.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Jogging Track"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "21:00",
+      "images": [
+        "/images/taman/timur/flora/4.jpeg"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Taman Pakal",
+      "lokasi": "Sebelah kelurahan Babat Jerawat BTKD",
+      "kelurahan": "Babat Jerawat",
+      "kecamatan": "Pakal",
+      "wilayah": "Surabaya Barat",
+      "luas_m2": 902.32,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Pakal adalah oase hijau yang terletak di ujung barat Kota Surabaya, bersebelahan dengan Kantor Kelurahan Babat Jerawat. Taman ini dilengkapi dengan fasilitas waduk buatan yang berfungsi mencegah banjir sekaligus tempat rekreasi air, dikelilingi hutan kota mini yang membuat kawasan sekitarnya terasa sejuk dan asri.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "19:00",
+      "images": [
+        "/images/taman/barat/pakal/1.png"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Taman Cahaya",
+      "lokasi": "Jl. Babat Jerawat",
+      "kelurahan": "Pakal",
+      "kecamatan": "Babat Jerawat",
+      "wilayah": "Surabaya Barat",
+      "luas_m2": 16233,
+      "hasCCTV": false,
+      "cameraUrl": null,
+      "current_visitors": 0,
+      "crowd_level": null,
+      "description": "Taman Cahaya merupakan taman kota terbesar dan terlengkap di wilayah Surabaya Barat (Babat Jerawat). Taman ini menjadi pusat olahraga dan rekreasi warga Barat karena dilengkapi dengan fasilitas jogging track yang luas, lapangan basket, lapangan futsal, lintasan batu refleksi, hingga area bermain anak. Di malam hari, taman ini diterangi lampu hias cantik yang membuatnya terlihat semarak.",
+      "facilities": [
+        "Area Duduk",
+        "Toilet",
+        "Parkir",
+        "Lampu Hias"
+      ],
+      "jamBuka": "06:00",
+      "jamTutup": "22:00",
+      "images": [
+        "/images/taman/barat/cahaya/1.jpeg",
+        "/images/taman/barat/cahaya/2.webp"
+      ]
+    }
+  ],
+  "total": 40,
+  "total_luas_m2": 814900.11,
+  "statistik_wilayah": {
+    "Surabaya Pusat": {
+      "jumlah": 9,
+      "total_luas": 54918.57
+    },
+    "Surabaya Utara": {
+      "jumlah": 6,
+      "total_luas": 25908.94
+    },
+    "Surabaya Selatan": {
+      "jumlah": 11,
+      "total_luas": 41772.51
+    },
+    "Surabaya Timur": {
+      "jumlah": 12,
+      "total_luas": 675164.77
+    },
+    "Surabaya Barat": {
+      "jumlah": 2,
+      "total_luas": 17135.32
+    }
+  }
+}

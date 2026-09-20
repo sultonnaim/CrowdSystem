@@ -1,0 +1,2660 @@
+{
+  "history": [
+    {
+      "id": 1,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:13:38.358Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 2,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:41:44.153Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 3,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:41:55.555Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 4,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:42:04.223Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 5,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:42:05.827Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 6,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:42:26.201Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 7,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:42:27.145Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 8,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:42:31.661Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 9,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:42:47.979Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 10,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:42:53.551Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 11,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:43:05.274Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 12,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:43:09.339Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 13,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:43:21.353Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 14,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:43:26.629Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 15,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:43:35.699Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 16,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:43:47.340Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 17,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:43:51.235Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 18,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:44:01.445Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 19,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:44:08.384Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 20,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:44:22.274Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 21,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:44:28.067Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 22,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:44:28.953Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 23,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:44:44.151Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 24,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:44:46.661Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 25,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:45:04.024Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 26,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:45:06.042Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 27,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:45:17.198Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 28,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:45:24.707Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 29,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:45:33.291Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 30,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:45:45.104Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 31,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:45:45.127Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 32,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:45:46.398Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 33,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:46:00.379Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 34,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:46:11.016Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 35,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:46:11.893Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 36,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:46:21.756Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 37,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:46:35.531Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 38,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:46:39.392Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 39,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:46:44.250Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 40,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:46:45.308Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 41,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:47:02.547Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 42,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:47:03.426Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 43,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:47:11.258Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 44,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:47:21.332Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 45,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:47:35.370Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 46,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:47:38.026Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 47,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:47:39.446Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 48,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:47:59.976Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 49,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:48:06.706Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 50,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:48:07.867Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 51,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:48:20.933Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 52,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:48:32.776Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 53,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:48:37.220Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 54,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:48:40.123Z",
+      "count": 3,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 55,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:48:56.684Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 56,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:49:00.395Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 57,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:49:08.462Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 58,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:49:16.154Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 59,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:49:30.016Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 60,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:49:34.290Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 61,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:49:36.707Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 62,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:49:56.789Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 63,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:49:59.991Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 64,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:50:01.100Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 65,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:50:14.396Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 66,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:50:24.312Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 67,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:50:32.871Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 68,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:50:35.689Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 69,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:50:53.132Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 70,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:50:53.153Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 71,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:50:59.757Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 72,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:51:13.477Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 73,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:51:20.555Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 74,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:51:21.722Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 75,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:51:26.753Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 76,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:53:04.231Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 77,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:53:17.045Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 78,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:53:24.894Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 79,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:53:26.314Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 80,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:53:44.639Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 81,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:53:45.649Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 82,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:53:48.172Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 83,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:53:59.276Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 84,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:54:04.704Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 85,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:54:05.828Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 86,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:54:05.934Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 87,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:54:17.869Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 88,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:54:28.473Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 89,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:54:34.616Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 90,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:54:43.420Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 91,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:54:52.886Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 92,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:54:55.526Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 93,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:54:59.031Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 94,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:55:10.093Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 95,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:55:14.862Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 96,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:55:27.381Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 97,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:55:34.585Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 98,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:55:36.043Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 99,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:55:53.325Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 100,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:55:54.403Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 101,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:56:11.738Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 102,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:56:14.109Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 103,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:56:21.921Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 104,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:56:35.880Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 105,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:56:38.183Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 106,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:56:52.424Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 107,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:56:57.226Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 108,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:57:03.588Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 109,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:57:18.686Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 110,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:57:23.124Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 111,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:57:29.948Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 112,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:57:34.591Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 113,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:57:40.097Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 114,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:57:47.185Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 115,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:58:01.561Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 116,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:58:02.417Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 117,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:58:05.016Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 118,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:58:26.495Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 119,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:58:30.040Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 120,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:58:33.485Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 121,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:58:47.935Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 122,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:58:58.631Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 123,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:59:05.389Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 124,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:59:08.634Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 125,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:59:25.864Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 126,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:59:29.285Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 127,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T03:59:36.359Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 128,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T03:59:48.175Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 129,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T03:59:59.860Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 130,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:00:02.731Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 131,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:00:10.617Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 132,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:00:29.551Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 133,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:00:31.265Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 134,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:00:32.795Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 135,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:00:48.751Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 136,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:00:53.098Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 137,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:01:08.119Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 138,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:01:11.052Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 139,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:01:21.587Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 140,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:01:28.188Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 141,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:01:38.183Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 142,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:01:48.437Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 143,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:01:49.773Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 144,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:02:05.135Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 145,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:02:09.854Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 146,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:02:19.333Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 147,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:02:26.796Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 148,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:02:42.976Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 149,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:02:44.515Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 150,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:02:46.594Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 151,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:03:07.710Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 152,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:03:11.297Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 153,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:03:14.207Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 154,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:03:27.511Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 155,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:03:39.427Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 156,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:03:44.084Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 157,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:03:47.551Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 158,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:04:03.567Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 159,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:04:07.712Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 160,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:04:16.731Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 161,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:04:24.634Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 162,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:04:40.097Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 163,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:04:43.389Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 164,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:04:45.544Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 165,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:05:06.778Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 166,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:05:09.279Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 167,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:05:19.930Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 168,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:05:23.669Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 169,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:05:34.180Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 170,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:05:43.207Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 171,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:05:45.756Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 172,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:06:01.404Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 173,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:06:03.775Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 174,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:06:11.381Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 175,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:06:12.196Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 176,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:06:24.894Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 177,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:06:32.766Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 178,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:06:39.185Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 179,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:06:46.090Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 180,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:06:57.818Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 181,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:07:01.176Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 182,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:07:16.019Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 183,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:07:22.193Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 184,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:07:28.039Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 185,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:07:41.917Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 186,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:07:42.999Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 187,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:07:58.939Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 188,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:08:04.205Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 189,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:08:07.737Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 190,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:08:23.063Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 191,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:08:25.934Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 192,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:08:41.163Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 193,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:08:45.874Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 194,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:08:52.643Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 195,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:09:04.077Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 196,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:09:14.611Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 197,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:09:21.238Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 198,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:09:27.068Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 199,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:09:43.116Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 200,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:09:50.609Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 201,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:09:51.769Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 202,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:10:08.134Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 203,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:10:12.996Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 204,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:10:20.606Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 205,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:10:27.541Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 206,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:10:42.326Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 207,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:10:48.574Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 208,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:10:48.696Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 209,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:11:09.758Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 210,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:11:11.743Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 211,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:11:16.718Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 212,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:11:30.225Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 213,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:11:37.189Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 214,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:11:45.736Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 215,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:11:51.574Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 216,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:12:03.280Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 217,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:12:04.182Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 218,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:12:18.211Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 219,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:12:22.559Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 220,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:12:33.357Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 221,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:12:42.445Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 222,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:12:45.326Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 223,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:12:59.705Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 224,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:13:00.658Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 225,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:13:17.448Z",
+      "count": 3,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 226,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:13:20.797Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 227,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:13:21.965Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 228,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:13:28.955Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 229,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:13:39.121Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 230,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:13:48.451Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 231,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:13:51.647Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 232,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:13:59.149Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 233,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:14:13.454Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 234,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:14:19.997Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 235,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:14:20.175Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 236,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:14:33.752Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 237,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:14:36.390Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 238,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T04:14:44.650Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 239,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T04:14:48.047Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 240,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T04:14:54.952Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 241,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:27:14.720Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 242,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:27:17.806Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 243,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:27:19.276Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 244,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:27:33.996Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 245,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:27:38.333Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 246,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:27:40.047Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 247,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:27:49.699Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 248,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:28:03.041Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 249,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:28:06.360Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 250,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:28:11.560Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 251,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:28:32.278Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 252,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:28:38.947Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 253,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:28:50.590Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 254,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:29:00.973Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 255,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:29:18.155Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 256,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:29:23.037Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 257,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:29:26.077Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 258,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:29:34.861Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 259,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:29:51.509Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 260,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:29:56.209Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 261,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:29:57.265Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 262,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:30:09.629Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 263,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:30:09.854Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 264,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:30:30.810Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 265,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:30:32.173Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 266,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:30:37.338Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 267,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:30:56.118Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 268,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:31:02.961Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 269,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:31:09.195Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 270,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:31:10.370Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 271,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:31:26.640Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 272,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:31:37.172Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 273,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:31:44.319Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 274,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:31:45.422Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 275,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:32:06.053Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 276,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:32:14.802Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 277,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:32:19.838Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 278,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:32:28.414Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 279,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:35:49.536Z",
+      "count": 150,
+      "crowd_level": "Tinggi"
+    },
+    {
+      "id": 280,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:36:08.924Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 281,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:36:15.421Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 282,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:36:15.706Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 283,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:36:32.562Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 284,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:36:43.994Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 285,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:36:48.764Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 286,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:36:53.383Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 287,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:37:12.365Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 288,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:37:16.301Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 289,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:37:22.088Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 290,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:37:36.713Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 291,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:37:41.880Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 292,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:37:46.493Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 293,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:37:58.271Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 294,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:38:12.849Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 295,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:38:14.123Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 296,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:38:21.113Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 297,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:38:41.587Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 298,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:38:42.774Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 299,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:38:45.351Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 300,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:38:59.007Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 301,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:39:10.245Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 302,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:39:20.120Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 303,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:39:21.025Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 304,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:39:39.315Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 305,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:39:42.411Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 306,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:39:47.814Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 307,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:40:03.897Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 308,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-16T13:40:10.650Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 309,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-16T13:40:15.225Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 310,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-16T13:40:25.909Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 311,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-17T04:25:34.548Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 312,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-17T04:25:37.267Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 313,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-17T04:25:39.897Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 314,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-17T04:25:57.987Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 315,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-17T04:26:02.331Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 316,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-17T04:26:03.616Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 317,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-17T04:26:19.142Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 318,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-17T04:26:29.414Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 319,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-17T04:26:39.543Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 320,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-17T04:26:44.478Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 321,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-17T04:27:00.330Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 322,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-17T04:27:00.366Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 323,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-17T04:27:09.062Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 324,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-17T04:27:20.663Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 325,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-17T04:27:28.216Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 326,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-17T04:27:32.497Z",
+      "count": 2,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 327,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-17T04:27:42.650Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 328,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-17T04:28:01.526Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 329,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-17T04:28:04.172Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 330,
+      "location_id": 33,
+      "location_name": "Taman Teratai",
+      "timestamp": "2026-06-17T04:28:15.677Z",
+      "count": 1,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 331,
+      "location_id": 36,
+      "location_name": "Taman Harmoni",
+      "timestamp": "2026-06-17T04:28:19.040Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    },
+    {
+      "id": 332,
+      "location_id": 21,
+      "location_name": "Taman Ronggolawe",
+      "timestamp": "2026-06-17T04:28:23.184Z",
+      "count": 0,
+      "crowd_level": "Rendah"
+    }
+  ]
+}
